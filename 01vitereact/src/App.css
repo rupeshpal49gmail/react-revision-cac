@@ -1,0 +1,11 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: #212121;
+  color: #ffffff;
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+}
